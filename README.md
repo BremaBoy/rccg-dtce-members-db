@@ -29,9 +29,6 @@ A comprehensive web portal for DTCE (Directorate of Teens and Children Education
   - Birthday calendar showing upcoming birthdays (next 30 days)
   - Post birthday congratulations for members
   - View recent birthday posts
-- **Settings**:
-  - Configure notification email address
-  - Default email: brematech27@gmail.com
 
 ### Automated Birthday Notifications
 - **Midnight Notification**: Sent at 00:00 AM on member's birthday
