@@ -59,7 +59,7 @@ export default function AdminLoginPage() {
         {/* Header */}
         <div className="text-center mb-8">
           <Image
-            src="/images/login-logo.png"
+            src="/images/dtce-logo.png"
             alt="DTCE Logo"
             width={600}
             height={300}

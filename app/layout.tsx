@@ -4,6 +4,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "DTCE Member Portal",
   description: "Directorate of Teens and Children Education - Member Registration Portal",
+  icons: {
+    icon: '/icon.png',
+  },
 };
 
 export default function RootLayout({

@@ -354,7 +354,7 @@ Redeemed Christian Church of God (RCCG)`;
           <div className="flex justify-between items-center">
             <Link href="/">
               <Image
-                src="/images/login-logo.png"
+                src="/images/dtce-logo.png"
                 alt="DTCE Logo"
                 width={600}
                 height={300}

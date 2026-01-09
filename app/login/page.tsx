@@ -67,7 +67,7 @@ export default function LoginPage() {
         {/* Header */}
         <div className="text-center mb-0">
           <Image
-            src="/images/login-logo.png"
+            src="/images/dtce-logo.png"
             alt="DTCE Logo"
             width={600}
             height={300}
